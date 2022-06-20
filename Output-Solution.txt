@@ -1,0 +1,6 @@
+﻿C:\Users\Stanislava\Desktop\RestaurantB\RestaurantB\RestaurantB.csproj : error  : The project file cannot be found.
+
+C:\Users\Stanislava\Desktop\RestaurantB\RestaurantB.Models\RestaurantB.Models.csproj : error  : The project file cannot be found.
+
+C:\Users\Stanislava\Desktop\RestaurantB\RestaurantB.BL\RestaurantB.BL.csproj : error  : The project file cannot be found.
+
