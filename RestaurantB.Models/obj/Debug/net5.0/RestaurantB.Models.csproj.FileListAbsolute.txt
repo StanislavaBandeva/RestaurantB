@@ -1,0 +1,14 @@
+C:\Users\Stanislava\Desktop\Stasi\C#\- Async\- kursov proekt\RestaurantB\RestaurantB.Models\bin\Debug\net5.0\RestaurantB.Models.deps.json
+C:\Users\Stanislava\Desktop\Stasi\C#\- Async\- kursov proekt\RestaurantB\RestaurantB.Models\bin\Debug\net5.0\RestaurantB.Models.dll
+C:\Users\Stanislava\Desktop\Stasi\C#\- Async\- kursov proekt\RestaurantB\RestaurantB.Models\bin\Debug\net5.0\ref\RestaurantB.Models.dll
+C:\Users\Stanislava\Desktop\Stasi\C#\- Async\- kursov proekt\RestaurantB\RestaurantB.Models\bin\Debug\net5.0\RestaurantB.Models.pdb
+C:\Users\Stanislava\Desktop\Stasi\C#\- Async\- kursov proekt\RestaurantB\RestaurantB.Models\obj\Debug\net5.0\RestaurantB.Models.csproj.AssemblyReference.cache
+C:\Users\Stanislava\Desktop\Stasi\C#\- Async\- kursov proekt\RestaurantB\RestaurantB.Models\obj\Debug\net5.0\RestaurantB.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stanislava\Desktop\Stasi\C#\- Async\- kursov proekt\RestaurantB\RestaurantB.Models\obj\Debug\net5.0\RestaurantB.Models.AssemblyInfoInputs.cache
+C:\Users\Stanislava\Desktop\Stasi\C#\- Async\- kursov proekt\RestaurantB\RestaurantB.Models\obj\Debug\net5.0\RestaurantB.Models.AssemblyInfo.cs
+C:\Users\Stanislava\Desktop\Stasi\C#\- Async\- kursov proekt\RestaurantB\RestaurantB.Models\obj\Debug\net5.0\RestaurantB.Models.csproj.CoreCompileInputs.cache
+C:\Users\Stanislava\Desktop\Stasi\C#\- Async\- kursov proekt\RestaurantB\RestaurantB.Models\obj\Debug\net5.0\RestaurantB.Models.dll
+C:\Users\Stanislava\Desktop\Stasi\C#\- Async\- kursov proekt\RestaurantB\RestaurantB.Models\obj\Debug\net5.0\ref\RestaurantB.Models.dll
+C:\Users\Stanislava\Desktop\Stasi\C#\- Async\- kursov proekt\RestaurantB\RestaurantB.Models\obj\Debug\net5.0\RestaurantB.Models.pdb
+C:\Users\Stanislava\Desktop\RestaurantB\RestaurantB.Models\obj\Debug\net5.0\RestaurantB.Models.dll
+C:\Users\Stanislava\Desktop\RestaurantB\RestaurantB.Models\obj\Debug\net5.0\RestaurantB.Models.pdb
